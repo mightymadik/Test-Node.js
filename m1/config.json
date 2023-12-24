@@ -1,0 +1,9 @@
+{
+    "port": 3000,
+    "rabbitMQUrl": "amqp://localhost",
+    "logLevel": "info",
+    "scripts": {
+        "start": "node index.js"
+      }
+  }
+  

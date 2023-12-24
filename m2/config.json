@@ -1,0 +1,4 @@
+{
+    "rabbitMQUrl": "amqp://localhost",
+    "logLevel": "info"
+  }

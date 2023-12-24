@@ -1,0 +1,11 @@
+{
+    "name": "m1",
+    "version": "1.0.0",
+    "main": "m1.js",
+    "scripts": {
+      "start": "node m1.js"
+    },
+    "dependencies": {
+    }
+  }
+  

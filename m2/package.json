@@ -1,0 +1,11 @@
+{
+    "name": "m2",
+    "version": "1.0.0",
+    "main": "m2.js",
+    "scripts": {
+      "start": "node m2.js"
+    },
+    "dependencies": {
+    }
+  }
+  
